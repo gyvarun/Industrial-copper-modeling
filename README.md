@@ -29,7 +29,7 @@ The following mentioned libraries are used to build the application
 
 **Data preprocessing and Data Visualization**
 
-Data preprocessing was performed using diifferent pandas, numpy and data visualization was performed using seaborn and matplotlib. After the data preprocessing classification model and regression model
+Data preprocessing was performed using pandas, numpy and data visualization was performed using seaborn and matplotlib. After the data preprocessing classification model and regression model
 was built using sklearn. Randomforest classifier gave an testing accuracy of 99 % for prediciting the status and Randomforest regressor gave an accuracy of 95.9 % for prediciting the selling
 price of the copper. Data imbalance in the classification model was handled by using SMOTEENN and it gave us the best results.
 
